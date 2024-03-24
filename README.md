@@ -14,13 +14,18 @@
 내용
 <br><br>
 
-### 프로젝트 기획
+### ERD 및 시나리오
 
 ---
-[WBS](https://docs.google.com/spreadsheets/d/1VS6h_UvXCQAMcixQ1COoRRyjtkPPxUBTzK4tpFutFXQ/edit#gid=420001454)
-<br>
-[요구사항 정의서](https://docs.google.com/spreadsheets/d/1mO0hrGlxiyJS6M7duXKe6gTWfpthLB1u7dr9gcEcNyw/edit#gid=1526384192)
+## 1 ) ERD
+
 <br><br>
+<img src="./img/final_erd.png">
+<br><br>
+
+## 1 ) 시나리오
+
+
 
 ### 프로젝트 설계
 
