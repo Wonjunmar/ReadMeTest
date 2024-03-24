@@ -2,90 +2,62 @@
     <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=FFDC00&text=GIGA%20COFFEE&textBg=false&animation=fadeIn&fontColor=452613&fontSize=80&reversal=false&desc=기억%20속,%20가장%20맛있었던%20한%20모금&descAlignY=80"/>
 </p>
 
-# 프로젝트 제목
+### 프로젝트 기본 소개
 
-One Paragraph of project description goes here
+---
+내용
+<br><br>
 
-## Getting Started
+### 프로젝트 배경
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+---
+내용
+<br><br>
 
-### Prerequisites
+### 프로젝트 기획
 
-What things you need to install the software and how to install them
+---
+[WBS](https://docs.google.com/spreadsheets/d/1VS6h_UvXCQAMcixQ1COoRRyjtkPPxUBTzK4tpFutFXQ/edit#gid=420001454)
+<br>
+[요구사항 정의서](https://docs.google.com/spreadsheets/d/1mO0hrGlxiyJS6M7duXKe6gTWfpthLB1u7dr9gcEcNyw/edit#gid=1526384192)
+<br><br>
 
-```
-Give examples
-```
+### 프로젝트 설계
 
-### Installing
+---
+[ERD]
+<img src="./img/final_erd.png">
+<br><br>
 
-A step by step series of examples that tell you how to get a development env running
+[릴레이션 스키마]
+<img src="./img/final_relation.png">
+<br><br>
 
-Say what the step will be
+[[화면설계도(Figma)](https://www.figma.com/file/gibflCmudNsrlpFDWKvJxJ/Giga-Coffee?type=design&node-id=0-1&mode=design&t=EAiTX7alUngoUoYI-0)]
+<br><br>
 
-```
-Give the example
-```
+[[API 명세서](https://www.notion.so/API-3680b3a4d3b641108f2686515dfc2222)]
+<br><br>
 
-And repeat
+### 시스템 아키텍처
 
-```
-until finished
-```
+---
+<img src="./img/system_architecture.png">
 
-End with an example of getting some data out of the system or using it for a little demo
+프론트엔드 : 내용
 
-## Running the tests
+<br><br>
 
-Explain how to run the automated tests for this system
+백엔드 : 내용
 
-### Break down into end to end tests
+<br><br>
 
-Explain what these tests test and why
+DB : 내용
 
-```
-Give an example
-```
+<br><br>
 
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+---
+<CI/CD 추가 이후>
+그림
+<br><br>
+설명
