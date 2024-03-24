@@ -14,11 +14,9 @@
 내용
 <br><br>
 
-### 시나리오
+### 사용자 별 시나리오
 
 ---
-
-<br>
 
 ## 1 ) 시나리오
 
@@ -71,24 +69,80 @@
 
 &nbsp;　**18. 본사 관리자는 공지 사항을 작성할 수 있다.**
 
-
-
-
+<br><br>
 
 ### 프로젝트 설계
 
 ---
-[ERD]
-<img src="./img/final_erd.png">
+[ERD]<img src="./img/final_erd.png">
 <br><br>
 
-[릴레이션 스키마]
-<img src="./img/final_relation.png">
+[[릴레이션 스키마]<img src="./img/final_relation.png">]
 <br><br>
 
-[[화면설계도(Figma)](https://www.figma.com/file/gibflCmudNsrlpFDWKvJxJ/Giga-Coffee?type=design&node-id=0-1&mode=design&t=EAiTX7alUngoUoYI-0)]
 <br><br>
+
+### API
+
+---
 
 [[API 명세서](https://www.notion.so/API-3680b3a4d3b641108f2686515dfc2222)]
 <br><br>
 
+<br><br>
+
+### API 테스트 결과 (Post Man)
+
+---
+<br>
+
+<details><br>
+<summary><b span style="font-size: larger;">본사 관리자</b></summary>
+    <div>
+         <details>
+         <summary><b>REQ-0001. 브랜드 등록</b></summary>
+         <br>
+         <p><b>➡ 관리자가 [ 브랜드명, 브랜드 소개, 브랜드 이미지, 브랜드 스타일, 사업자 주소, 전화번호, 사업자 등록번호, 은행 계좌 번호,<br>
+&nbsp;&nbsp;&nbsp;　전화번호, 환불 주소, 환불 비용, 환불 택배사 ] 를 입력하여 브랜드를 등록한다.</b></p><br>
+         <p><img src="https://github.com/beyond-sw-camp/be02-2nd-developer_passion-fashion/assets/148875644/2cf3060d-106d-4c19-94ab-62586f6f164a"/></p>
+         </details><br>
+	 <details>
+         <summary><b>REQ-0002. 브랜드 정보 수정</b></summary>
+                  <br>
+         <p><b>➡ 관리자가 브랜드에서 요청 시, 요청한 내용으로 브랜드 정보를 수정한다.</b></p><br>
+         <p><img src="https://github.com/beyond-sw-camp/be02-2nd-developer_passion-fashion/assets/148875644/8c9bba8e-b0cc-4e2d-8839-a7f2854f7dc6"/></p>
+         </details><br>
+	 <details>
+         <summary><b>REQ-0003. 브랜드 목록 조회</b></summary>
+                  <br>
+         <p><b>➡ 관리자가 등록된 브랜드의 목록을 조회한다.</b></p><br>
+         <p><img src="https://github.com/beyond-sw-camp/be02-2nd-developer_passion-fashion/assets/148875644/f3f889f4-9400-4271-85b8-cfc6beddc9e0"/></p>
+         </details><br>
+	 <details>
+         <summary><b>REQ-0004. 특정 브랜드 조회</b></summary>
+                  <br>
+         <p><b>➡ 관리자가 브랜드 IDX를 통해 특정 브랜드의 정보를 조회한다.</b></p><br>
+         <p><img src="https://github.com/beyond-sw-camp/be02-2nd-developer_passion-fashion/assets/148875644/d138362e-fa5f-4e23-a044-44eb7278c97d"/></p>
+         </details><br>
+	 <details>
+         <summary><b>REQ-0005. 회원 리스트 조회</b></summary>
+                  <br>
+         <p><b>➡ 관리자가 전체 회원의 목록을 조회한다.</b></p><br>
+         <p><img src="https://github.com/hyungdoyou/LONUA_Project/assets/148875644/c25eb7e4-e46c-4baf-b76d-93e68819c4c6"/></p>
+         </details><br>
+    </div>
+</details>
+
+<br>
+
+<details><br>
+<summary><b span style="font-size: larger;"> 가맹점 관리자</b></summary>
+<div>
+         <details>
+         <summary><b>REQ-0001. 브랜드 등록</b></summary>
+         <br>
+         <p><b>➡ 관리자가 [ 브랜드명, 브랜드 소개, 브랜드 이미지, 브랜드 스타일, 사업자 주소, 전화번호, 사업자 등록번호, 은행 계좌 번호,<br>
+&nbsp;&nbsp;&nbsp;　전화번호, 환불 주소, 환불 비용, 환불 택배사 ] 를 입력하여 브랜드를 등록한다.</b></p><br>
+         <p><img src="https://github.com/beyond-sw-camp/be02-2nd-developer_passion-fashion/assets/148875644/2cf3060d-106d-4c19-94ab-62586f6f164a"/></p>
+         </details><br>
+</div>
