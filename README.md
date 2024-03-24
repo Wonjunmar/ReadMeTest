@@ -14,14 +14,9 @@
 내용
 <br><br>
 
-### ERD 및 시나리오
+### 시나리오
 
 ---
-## 1 ) ERD
-
-<br><br>
-<img src="./img/final_erd.png">
-<br><br>
 
 ## 1 ) 시나리오
 
