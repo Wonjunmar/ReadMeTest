@@ -111,32 +111,29 @@
 	 </b></p><br>
          <p><img src=""/></p>
          </details><br>
-	    
+
 	 <details>
          <summary><b>B_MANAGER_002. 본사 로그인</b></summary>
-                  <br>
-         <p><b>➡ 관리자가 브랜드에서 요청 시, 요청한 내용으로 브랜드 정보를 수정한다.</b></p><br>
-         <p><img src="https://github.com/beyond-sw-camp/be02-2nd-developer_passion-fashion/assets/148875644/8c9bba8e-b0cc-4e2d-8839-a7f2854f7dc6"/></p>
+         <br>
+         <p><b>➡ 본사 관리자가 [ Id, Password, Email, 이름, 핸드폰 번호, 부서명을 입력하여 회원가입을 한다.<br>
+	 </b></p><br>
+         <p><img src=""/></p>
          </details><br>
 	 
 	 <details>
-         <summary><b>REQ-0003. 브랜드 목록 조회</b></summary>
-                  <br>
-         <p><b>➡ 관리자가 등록된 브랜드의 목록을 조회한다.</b></p><br>
-         <p><img src="https://github.com/beyond-sw-camp/be02-2nd-developer_passion-fashion/assets/148875644/f3f889f4-9400-4271-85b8-cfc6beddc9e0"/></p>
+         <summary><b>B_MANAGER_002. 본사 로그인</b></summary>
+         <br>
+         <p><b>➡ 본사 관리자가 [ Id, Password, Email, 이름, 핸드폰 번호, 부서명을 입력하여 회원가입을 한다.<br>
+	 </b></p><br>
+         <p><img src=""/></p>
          </details><br>
 	 
 	 <details>
-         <summary><b>REQ-0004. 특정 브랜드 조회</b></summary>
-                  <br>
-         <p><b>➡ 관리자가 브랜드 IDX를 통해 특정 브랜드의 정보를 조회한다.</b></p><br>
-         <p><img src="https://github.com/beyond-sw-camp/be02-2nd-developer_passion-fashion/assets/148875644/d138362e-fa5f-4e23-a044-44eb7278c97d"/></p>
-         </details><br>
-	 <details>
-         <summary><b>REQ-0005. 회원 리스트 조회</b></summary>
-                  <br>
-         <p><b>➡ 관리자가 전체 회원의 목록을 조회한다.</b></p><br>
-         <p><img src="https://github.com/hyungdoyou/LONUA_Project/assets/148875644/c25eb7e4-e46c-4baf-b76d-93e68819c4c6"/></p>
+         <summary><b>B_MANAGER_002. 본사 로그인</b></summary>
+         <br>
+         <p><b>➡ 본사 관리자가 [ Id, Password, Email, 이름, 핸드폰 번호, 부서명을 입력하여 회원가입을 한다.<br>
+	 </b></p><br>
+         <p><img src=""/></p>
          </details><br>
     </div>
 </details>
