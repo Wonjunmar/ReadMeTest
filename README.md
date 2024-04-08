@@ -79,10 +79,10 @@
 ### 프로젝트 설계
 
 ---
-[ERD]<img src="./img/final_erd.png">
+<details><summary>[ERD]</summary><img src="./image/final_erd.png"></details>
 <br><br>
 
-[[릴레이션 스키마]<img src="./img/final_relation.png">]
+<details><summary>[릴레이션 스키마]</summary><img src="./image/final_erd.png"></details>
 <br><br>
 
 <br><br>
@@ -108,39 +108,236 @@
          <summary>
          <b>B_MANAGER_001. 본사 회원가입</b></summary>
          <br>
-         <p><b>➡ 본사 관리자가 [ Id, Password, Email, 이름, 핸드폰 번호, 부서명을 입력하여 회원가입을 한다.
+         <p><b>➡ 본사 관리자가 Id, Password, Email, 이름, 핸드폰 번호, 부서명을 입력하여 회원가입을 한다.
          <br>
          </b></p>
-         <p><img src=""/></p>
+         <p><img src="./postman/B_MANAGER_001 본사회원가입.png"/></p>
          </details>
     </div>
     <br>
     <div>
          <details>
          <summary>
-         <b>B_MANAGER_001. 본사 회원가입</b></summary>
+         <b>B_MANAGER_002. 본사 로그인</b></summary>
          <br>
-         <p><b>➡ 본사 관리자가 [ Id, Password, Email, 이름, 핸드폰 번호, 부서명을 입력하여 회원가입을 한다.
+         <p><b>➡ 본사 관리자가 Id, Password를 입력하여 로그인을 한다.
          <br>
          </b></p>
-         <p><img src=""/></p>
+         <p><img src="./postman/B_MANAGER_002 본사로그인.png"/></p>
          </details>
     </div>
-    
+    <br>
+    <div>
+         <details>
+         <summary>
+         <b>B_STORE_001. 가맹점 등록</b></summary>
+         <br>
+         <p><b>➡ 본사 관리자는 새로운 가맹점을 등록할 수 있다.
+         <br>
+         </b></p>
+         <p><img src="./postman/B_STORE_001 본사가맹점등록.png"/></p>
+         </details>
+    </div>
+    <br>
+    <div>
+         <details>
+         <summary>
+         <b>B_STORE_002. 가맹점 정보 조회</b></summary>
+         <br>
+         <p><b>➡ 본사 관리자는 가맹점 정보 조회 기능을 사용하여 시스템에 등록된 가맹점의 상세 정보를 확인할 수 있다.
+         <br>
+         </b></p>
+         <p><img src="./postman/B_STORE_002 본사가맹점정보조회.png"/></p>
+         </details>
+    </div>
+    <br>
+    <div>
+         <details>
+         <summary>
+         <b>B_STORE_003. 가맹점 전체 조회</b></summary>
+         <br>
+         <p><b>➡ 본사 관리자는 가맹점 전체 조회 기능을 사용하여 시스템에 등록된 가맹점의 전체 정보를 확인할 수 있다.
+         <br>
+         </b></p>
+         <p><img src="./postman/B_STORE_003 본사가맹점전체조회.png"/></p>
+         </details>
+    </div>
+    <br>
+    <div>
+         <details>
+         <summary>
+         <b>B_CONTAINER_001. 창고 목록 조회</b></summary>
+         <br>
+         <p><b>➡ 본사 관리자는 창고 정보 조회 기능을 사용하여 시스템에 등록된 창고의 목록을 확인할 수 있다.
+         <br>
+         </b></p>
+         <p><img src="./postman/B_CONTAINER_001 본사창고목록.png"/></p>
+         </details>
+    </div>
+    <br>
+    <div>
+         <details>
+         <summary>
+         <b>B_CONTAINER_002. 창고 별 재고 조회</b></summary>
+         <br>
+         <p><b>➡ 본사 관리자는 창고별 상품 재고 조회 기능을 사용하여 시스템에 등록된 창고별 상품 재고를 확인할 수 있다.
+         <br>
+         </b></p>
+         <p><img src="./postman/B_CONTAINER_002 본사창고별.png"/></p>
+         </details>
+    </div>
+    <br>
+    <div>
+         <details>
+         <summary>
+         <b>B_CONTAINER_003. 창고 등록</b></summary>
+         <br>
+         <p><b>➡ 본사 관리자는 새로운 창고를 등록할 수 있다.
+         <br>
+         </b></p>
+         <p><img src="./postman/B_CONTAINER_003 본사창고등록.png"/></p>
+         </details>
+    </div>
+    <br>
+    <div>
+         <details>
+         <summary>
+         <b>B_PRODUCT_001. 상품 등록</b></summary>
+         <br>
+         <p><b>➡ 본사 관리자는 새로운 창고를 등록할 수 있다.
+         <br>
+         </b></p>
+         <p><img src="./postman/B_PRODUCT_001 본사상품등록.png"/></p>
+         </details>
+    </div>
+    <br>
+    <div>
+         <details>
+         <summary>
+         <b>B_PRODUCT_002. 상품 검색</b></summary>
+         <br>
+         <p><b>➡ 본사 관리자 및 가맹점 관리자는 상품 검색 기능을 사용하여 등록된 모든 상품의 정보를 볼 수 있다.
+         <br>
+         </b></p>
+         <p><img src="./postman/B_PRODUCT_002 본사상품검색.png"/></p>
+         </details>
+    </div>
+    <br>
+    <div>
+         <details>
+         <summary>
+         <b>B_PRODUCT_003. 상품 목록 조회</b></summary>
+         <br>
+         <p><b>➡ 본사 관리자 및 가맹점 관리자는 상품 조회 기능을 사용하여 등록된 모든 상품의 정보를 볼 수 있다.
+         <br>
+         </b></p>
+         <p><img src="./postman/B_PRODUCT_003 본사상품목록.png"/></p>
+         </details>
+    </div>
+    <br>
+    <div>
+         <details>
+         <summary>
+         <b>B_PRODUCT_004. 상품 정보 수정</b></summary>
+         <br>
+         <p><b>➡ 본사 관리자는 상품 수정 기능을 사용하여 기존 상품의 정보를 수정할 수 있다.
+         <br>
+         </b></p>
+         <p><img src="./postman/B_PRODUCT_004 본사상품업뎃.png"/></p>
+         </details>
+    </div>
+    <br>
+    <div>
+         <details>
+         <summary>
+         <b>B_PRODUCT_005. 상품 삭제</b></summary>
+         <br>
+         <p><b>➡ 본사 관리자는 상품 삭제 기능을 사용하여 데이터베이스에서 상품을 제거할 수 있다.
+         <br>
+         </b></p>
+         <p><img src="./postman/B_PRODUCT_005 본사상품삭제.png"/></p>
+         </details>
+    </div>
+    <br>
+    <div>
+         <details>
+         <summary>
+         <b>B_NOTICE_001. 공지사항 작성</b></summary>
+         <br>
+         <p><b>➡ 본사 관리자는 공지 사항을 작성할 수 있다.
+         <br>
+         </b></p>
+         <p><img src="./postman/B_NOTICE_001 공지사항 작성.png"/></p>
+         </details>
+    </div>
+    <br>
+    <div>
+         <details>
+         <summary>
+         <b>B_NOTICE_002. 공지사항 조회</b></summary>
+         <br>
+         <p><b>➡ 본사 관리자는 공지 사항들을 조회할 수 있다.
+         <br>
+         </b></p>
+         <p><img src="./postman/B_NOTICE_002 공지사항 조회.png"/></p>
+         </details>
+    </div>
+    <br>
+    <div>
+         <details>
+         <summary>
+         <b>B_NOTICE_003. 공지사항 수정</b></summary>
+         <br>
+         <p><b>➡ 본사 관리자는 공지 사항을 수정할 수 있다.
+         <br>
+         </b></p>
+         <p><img src="./postman/B_NOTICE_003 공지사항 수정.png"/></p>
+         </details>
+    </div>
+    <br>
+    <div>
+         <details>
+         <summary>
+         <b>B_NOTICE_004. 공지사항 삭제</b></summary>
+         <br>
+         <p><b>➡ 본사 관리자는 공지 사항을 삭제할 수 있다.
+         <br>
+         </b></p>
+         <p><img src="./postman/B_NOTICE_004 공지사항 삭제.png"/></p>
+         </details>
+    </div>
 </details>
 
 <br>
 
 <details><br>
-<summary><b span style="font-size: larger;"> 가맹점 관리자</b></summary>
-<div>
+<summary><b span style="font-size: larger;">가맹점 관리자</b></summary>
+    <div>
          <details>
-         <summary><b>B_MANAGER_001. 회원가입</b></summary>
+         <summary>
+         <b>B_USER_001. 가맹점 회원가입</b></summary>
          <br>
-         <p><b>➡ 관리자가 [ 브랜드명, 브랜드 소개, 브랜드 이미지, 브랜드 스타일, 사업자 주소, 전화번호, 사업자 등록번호, 은행 계좌 번호,<br>
-&nbsp;&nbsp;&nbsp;　전화번호, 환불 주소, 환불 비용, 환불 택배사 ] 를 입력하여 브랜드를 등록한다.</b></p><br>
-         <p><img src="https://github.com/beyond-sw-camp/be02-2nd-developer_passion-fashion/assets/148875644/2cf3060d-106d-4c19-94ab-62586f6f164a"/></p>
-         </details><br>
-</div>
+         <p><b>➡ 가맹점 관리자는 회원 정보를 입력하여 회원가입을 진행한다.
+         <br>
+         </b></p>
+         <p><img src="./postman/B_USER_001 가맹점 관리자 회원가입.png"/></p>
+         </details>
+    </div>
+    <br>
+    <div>
+         <details>
+         <summary>
+         <b>B_USER_002. 가맹점 로그인</b></summary>
+         <br>
+         <p><b>➡ 가맹점 관리자는 Email과 Password를 입력해 토큰을 발급 받아 로그인할 수 있다.
+         <br>
+         </b></p>
+         <p><img src="./postman/B_USER_002 가맹점 관리자 로그인.png"/></p>
+         </details>
+    </div>
+</details>
+
+<br>
+
 ---
 <br>
