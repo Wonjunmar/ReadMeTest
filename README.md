@@ -105,37 +105,28 @@
 <summary><b span style="font-size: larger;">본사 관리자</b></summary>
     <div>
          <details>
-         <summary><b>B_MANAGER_001. 본사 회원가입</b></summary>
+         <summary>
+         <b>B_MANAGER_001. 본사 회원가입</b></summary>
          <br>
-         <p><b>➡ 본사 관리자가 [ Id, Password, Email, 이름, 핸드폰 번호, 부서명을 입력하여 회원가입을 한다.<br>
-	 </b></p><br>
-         <p><img src=""/></p>
-         </details><br>
-
-	 <details>
-         <summary><b>B_MANAGER_002. 본사 로그인</b></summary>
+         <p><b>➡ 본사 관리자가 [ Id, Password, Email, 이름, 핸드폰 번호, 부서명을 입력하여 회원가입을 한다.
          <br>
-         <p><b>➡ 본사 관리자가 [ Id, Password, Email, 이름, 핸드폰 번호, 부서명을 입력하여 회원가입을 한다.<br>
-	 </b></p><br>
+         </b></p>
          <p><img src=""/></p>
-         </details><br>
-	 
-	 <details>
-         <summary><b>B_MANAGER_002. 본사 로그인</b></summary>
-         <br>
-         <p><b>➡ 본사 관리자가 [ Id, Password, Email, 이름, 핸드폰 번호, 부서명을 입력하여 회원가입을 한다.<br>
-	 </b></p><br>
-         <p><img src=""/></p>
-         </details><br>
-	 
-	 <details>
-         <summary><b>B_MANAGER_002. 본사 로그인</b></summary>
-         <br>
-         <p><b>➡ 본사 관리자가 [ Id, Password, Email, 이름, 핸드폰 번호, 부서명을 입력하여 회원가입을 한다.<br>
-	 </b></p><br>
-         <p><img src=""/></p>
-         </details><br>
+         </details>
     </div>
+    <br>
+    <div>
+         <details>
+         <summary>
+         <b>B_MANAGER_001. 본사 회원가입</b></summary>
+         <br>
+         <p><b>➡ 본사 관리자가 [ Id, Password, Email, 이름, 핸드폰 번호, 부서명을 입력하여 회원가입을 한다.
+         <br>
+         </b></p>
+         <p><img src=""/></p>
+         </details>
+    </div>
+    
 </details>
 
 <br>
@@ -151,3 +142,5 @@
          <p><img src="https://github.com/beyond-sw-camp/be02-2nd-developer_passion-fashion/assets/148875644/2cf3060d-106d-4c19-94ab-62586f6f164a"/></p>
          </details><br>
 </div>
+---
+<br>
