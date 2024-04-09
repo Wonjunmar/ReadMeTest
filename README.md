@@ -306,6 +306,30 @@
          <p><img src="./postman/B_NOTICE_004 공지사항 삭제.png"/></p>
          </details>
     </div>
+        <br>
+    <div>
+         <details>
+         <summary>
+         <b>B_DELIVERY_002. 배송 상태 수정</b></summary>
+         <br>
+         <p><b>➡ 본사 관리자는 주문 상품에 대한 배송 상태를 수정할 수 있다.
+         <br>
+         </b></p>
+         <p><img src="./postman/B_DELIVERY_002 배송 상태 수정.png"/></p>
+         </details>
+    </div>
+    <br>
+    <div>
+         <details>
+         <summary>
+         <b>B_QUESTION_005. 문의사항 답변</b></summary>
+         <br>
+         <p><b>➡ 본사 관리자는 가맹자 관리자의 문의사항에 대한 답변을 작성할 수 있다.
+         <br>
+         </b></p>
+         <p><img src="./postman/B_QUESTION_005 문의사항 답변.png"/></p>
+         </details>
+    </div>
 </details>
 
 <br>
@@ -327,14 +351,267 @@
     <div>
          <details>
          <summary>
-         <b>B_USER_002. 가맹점 로그인</b></summary>
+         <b>B_USER_002. Email 찾기</b></summary>
+         <br>
+         <p><b>➡ 가맹점 관리자는 이름과 전화번호를 입력하여 Email을 찾을 수 있다.
+         <br>
+         </b></p>
+         <p><img src="./postman/B_USER_002 Email 찾기.png"/></p>
+         </details>
+    </div>
+    <br>
+    <div>
+         <details>
+         <summary>
+         <b>B_USER_003. 회원 정보 수정</b></summary>
+         <br>
+         <p><b>➡ 가맹점 관리자는 자신의 회원정보를 수정할 수 있다.
+         <br>
+         </b></p>
+         <p><img src="./postman/B_USER_003 회원 정보 수정.png"/></p>
+         </details>
+    </div>
+    <br>
+    <div>
+         <details>
+         <summary>
+         <b>B_USER_004. 가맹점 로그인</b></summary>
          <br>
          <p><b>➡ 가맹점 관리자는 Email과 Password를 입력해 토큰을 발급 받아 로그인할 수 있다.
          <br>
          </b></p>
-         <p><img src="./postman/B_USER_002 가맹점 관리자 로그인.png"/></p>
+         <p><img src="./postman/B_USER_004 가맹점 관리자 로그인.png"/></p>
          </details>
     </div>
+    <br>
+    <div>
+         <details>
+         <summary>
+         <b>B_USER_005. Password 재설정</b></summary>
+         <br>
+         <p><b>➡ 가맹점 관리자는 Password를 재설정할 수 있다.
+         <br>
+         </b></p>
+         <p><img src="./postman/B_USER_005 Password 재설정.png"/></p>
+         </details>
+    </div>
+     <br>
+    <div>
+         <details>
+         <summary>
+         <b>B_USER_006. Password 찾기</b></summary>
+         <br>
+         <p><b>➡ 가맹점 관리자는 이름과 Email을 입력하여 Password를 찾을 수 있다.
+         <br>
+         </b></p>
+         <p><img src="./postman/B_USER_006 Password 찾기.png"/></p>
+         </details>
+    </div>
+    <br>
+    <div>
+         <details>
+         <summary>
+         <b>B_DELIVERY_001. 배송 상태 조회</b></summary>
+         <br>
+         <p><b>➡ 가맹자 관리자는 자신의 주문 상품에 대한 배송 상태를 조회할 수 있다.
+         <br>
+         </b></p>
+         <p><img src="./postman/B_DELIVERY_001 배송 상태 조회.png"/></p>
+         </details>
+    </div>
+    <br>
+    <div>
+         <details>
+         <summary>
+         <b>B_ORDER_001. 주문 목록 조회</b></summary>
+         <br>
+         <p><b>➡ 가맹점 관리자는 주문했던 목록들을 조회 할수 있다.
+         <br>
+         </b></p>
+         <p><img src=""/></p>
+         </details>
+    </div>
+    <br>
+    <div>
+         <details>
+         <summary>
+         <b>B_ORDER_003. 결제 및 주문 내역 생성</b></summary>
+         <br>
+         <p><b>➡ 가맹점 관리자는 PortOne API 결제 기능을 통해 카트 안의 상품에 대해 결제를 진행할 수 있다.
+         <br>
+         </b></p>
+         <p><img src=""/></p>
+         </details>
+    </div>
+    <br>
+    <div>
+         <details>
+         <summary>
+         <b>B_ORDER_004. 결제 취소</b></summary>
+         <br>
+         <p><b>➡ 가맹점 관리자는 배송을 시작하지 않은 주문 내역의 결제 취소가 가능하다.
+         <br>
+         </b></p>
+         <p><img src=""/></p>
+         </details>
+    </div>
+    <br>
+    <div>
+         <details>
+         <summary>
+         <b>B_CART_001. 카트 담기</b></summary>
+         <br>
+         <p><b>➡ 가맹점 관리자는 
+         <br>
+         </b></p>
+         <p><img src=""/></p>
+         </details>
+    </div>
+    <br>
+    <div>
+         <details>
+         <summary>
+         <b>B_CART_002. 카트 삭제</b></summary>
+         <br>
+         <p><b>➡ 가맹점 관리자는 
+         <br>
+         </b></p>
+         <p><img src=""/></p>
+         </details>
+    </div>
+    <br>
+    <div>
+         <details>
+         <summary>
+         <b>B_CART_003. 카트 수정</b></summary>
+         <br>
+         <p><b>➡ 가맹점 관리자는 
+         <br>
+         </b></p>
+         <p><img src=""/></p>
+         </details>
+    </div>
+    <br>
+    <div>
+         <details>
+         <summary>
+         <b>B_CART_004. 카트 조회</b></summary>
+         <br>
+         <p><b>➡ 가맹점 관리자는 
+         <br>
+         </b></p>
+         <p><img src=""/></p>
+         </details>
+    </div>
+    <br>
+    <div>
+         <details>
+         <summary>
+         <b>B_QUESTION_001. 문의사항 작성</b></summary>
+         <br>
+         <p><b>➡ 가맹점 관리자는 문의사항을 작성할 수 있다. 
+         <br>
+         </b></p>
+         <p><img src="./postman/B_QUESTION_001 문의사항 작성.png"/></p>
+         </details>
+    </div>
+    <br>
+    <div>
+         <details>
+         <summary>
+         <b>B_QUESTION_002. 문의사항 조회</b></summary>
+         <br>
+         <p><b>➡ 본사 관리자 및 가맹점 관리자는 모든 문의사항을 조회할 수 있다.
+         <br>
+         </b></p>
+         <p><img src="./postman/B_QUESTION_002 문의사항 조회.png"/></p>
+         </details>
+    </div>
+    <br>
+    <div>
+         <details>
+         <summary>
+         <b>B_QUESTION_003. 문의사항 수정</b></summary>
+         <br>
+         <p><b>➡ 가맹점 관리자는 자신이 작성한 문의사항을 수정할 수 있다.
+         <br>
+         </b></p>
+         <p><img src="./postman/B_QUESTION_003 문의사항 수정.png"/></p>
+         </details>
+    </div>
+    <br>
+    <div>
+         <details>
+         <summary>
+         <b>B_QUESTION_004. 문의사항 삭제</b></summary>
+         <br>
+         <p><b>➡ 가맹점 관리자는 작성한 문의사항을 삭제할 수 있다.
+         <br>
+         </b></p>
+         <p><img src="./postman/B_QUESTION_004 문의사항 삭제.png"/></p>
+         </details>
+    </div>
+     <br>
+    <div>
+         <details>
+         <summary>
+         <b>B_STOCK_001. 재고 등록</b></summary>
+         <br>
+         <p><b>➡ 가맹점 관리자는 상품의 재고를 등록할 수 있다. 
+         <br>
+         </b></p>
+         <p><img src="./postman/B_STOCK_001 재고 등록.png"/></p>
+         </details>
+    </div>
+     <br>
+    <div>
+         <details>
+         <summary>
+         <b>B_STOCK_002. 전체 재고 조회</b></summary>
+         <br>
+         <p><b>➡ 가맹점 관리자는 전체 상품의 재고를 조회 할 수 있다.
+         <br>
+         </b></p>
+         <p><img src="./postman/B_STOCK_002 전체 재고 조회.png"/></p>
+         </details>
+    </div>
+     <br>
+    <div>
+         <details>
+         <summary>
+         <b>B_STOCK_003. 단일 재고 조회</b></summary>
+         <br>
+         <p><b>➡ 가맹점 관리자는 특정 상품의 재고를 조회 할 수 있다.
+         <br>
+         </b></p>
+         <p><img src="./postman/B_STOCK_003 재고 단일 재고 조회.png"/></p>
+         </details>
+    </div>
+     <br>
+    <div>
+         <details>
+         <summary>
+         <b>B_STOCK_004. 재고 수정</b></summary>
+         <br>
+         <p><b>➡ 가맹점 관리자는 특정 상품의 재고 정보를 수정할 수 있다.
+         <br>
+         </b></p>
+         <p><img src="./postman/B_STOCK_004 재고 수정.png"/></p>
+         </details>
+    </div>
+     <br>
+    <div>
+         <details>
+         <summary>
+         <b>B_STOCK_005. 재고 삭제</b></summary>
+         <br>
+         <p><b>➡ 가맹점 관리자는 특정 상품의 재고를 삭제 할 수 있다.
+         <br>
+         </b></p>
+         <p><img src="./postman/B_STOCK_005 재고 삭제.png"/></p>
+         </details>
+    </div>
+
 </details>
 
 <br>
