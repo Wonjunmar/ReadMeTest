@@ -85,8 +85,6 @@
 <details><summary>[릴레이션 스키마]</summary><img src="./image/final_erd.png"></details>
 <br><br>
 
-<br><br>
-
 ### API
 
 ---
