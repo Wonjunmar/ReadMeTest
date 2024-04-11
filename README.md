@@ -162,6 +162,18 @@
          <p><img src="./postman/B_STORE_003 본사가맹점전체조회.png"/></p>
          </details>
     </div>
+        <br>
+    <div>
+         <details>
+         <summary>
+         <b>B_ORDER_004. 가맹점 별 주문 내역 조회</b></summary>
+         <br>
+         <p><b>➡ 가맹점 관리자는 가맹점 별 주문 내역을 조회할 수 있다.
+         <br>
+         </b></p>
+         <p><img src="./postman/B_ORDER_004 가맹점 별 .png"/></p>
+         </details>
+    </div>
     <br>
     <div>
          <details>
@@ -428,43 +440,44 @@
          <p><b>➡ 가맹점 관리자는 주문했던 목록들을 조회 할수 있다.
          <br>
          </b></p>
-         <p><img src=""/></p>
+         <p><img src="./postman/B_ORDER_001 주문 목록 조회.png"/></p>
          </details>
     </div>
-    <br>
+        <br>
     <div>
          <details>
          <summary>
-         <b>B_ORDER_003. 결제 및 주문 내역 생성</b></summary>
+         <b>B_ORDER_002. 결제 및 주문 내역 생성</b></summary>
          <br>
-         <p><b>➡ 가맹점 관리자는 PortOne API 결제 기능을 통해 카트 안의 상품에 대해 결제를 진행할 수 있다.
+         <p><b>➡ 가맹점 관리자는 Portone API 결제 기능을 통해 카트 안의 상품에 대해 결제를 진행할 수 있다.
          <br>
          </b></p>
-         <p><img src=""/></p>
+         <p><img src="./postman/B_ORDER_003 결제.png"/></p>
+         <p><img src="./postman/B_ORDER_003 주문내역.png"/></p>
          </details>
     </div>
     <br>
     <div>
          <details>
          <summary>
-         <b>B_ORDER_004. 결제 취소</b></summary>
+         <b>B_ORDER_003. 결제 취소</b></summary>
          <br>
          <p><b>➡ 가맹점 관리자는 배송을 시작하지 않은 주문 내역의 결제 취소가 가능하다.
          <br>
          </b></p>
-         <p><img src=""/></p>
+         <p><img src="./postman/B_ORDER_004 결제 취소.png"/></p>
          </details>
     </div>
     <br>
     <div>
          <details>
          <summary>
-         <b>B_CART_001. 카트 담기</b></summary>
+         <b>B_CART_001. 카트 담기 및 수정</b></summary>
          <br>
-         <p><b>➡ 가맹점 관리자는 
+         <p><b>➡ 가맹점 관리자는 원하는 상품을 장바구니에 담을 수 있고, 카트에서 상품을 선택하고 수량을 조절할 수 있다.
          <br>
          </b></p>
-         <p><img src=""/></p>
+         <p><img src="./postman/B_CART_001 카트 담기.png"/></p>
          </details>
     </div>
     <br>
@@ -473,34 +486,22 @@
          <summary>
          <b>B_CART_002. 카트 삭제</b></summary>
          <br>
-         <p><b>➡ 가맹점 관리자는 
+         <p><b>➡ 가맹점 관리자는 카트에서 상품을 삭제할 수 있다.
          <br>
          </b></p>
-         <p><img src=""/></p>
+         <p><img src="./postman/B_CART_002 카트 삭제.png"/></p>
          </details>
     </div>
     <br>
     <div>
          <details>
          <summary>
-         <b>B_CART_003. 카트 수정</b></summary>
+         <b>B_CART_003. 카트 조회</b></summary>
          <br>
-         <p><b>➡ 가맹점 관리자는 
-         <br>
-         </b></p>
-         <p><img src=""/></p>
-         </details>
-    </div>
-    <br>
-    <div>
-         <details>
-         <summary>
-         <b>B_CART_004. 카트 조회</b></summary>
-         <br>
-         <p><b>➡ 가맹점 관리자는 
+         <p><b>➡ 가맹점 관리자는 카트에 담겨 있는 상품을 조회 할 수 있다.
          <br>
          </b></p>
-         <p><img src=""/></p>
+         <p><img src="./postman/B_CART_003 카트 목록.png"/></p>
          </details>
     </div>
     <br>
