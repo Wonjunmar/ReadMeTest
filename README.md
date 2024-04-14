@@ -85,7 +85,7 @@
 <details><summary>[릴레이션 스키마]</summary><img src="./image/final_erd.png"></details>
 <br><br>
 
-### API
+### API 명세서
 
 ---
 <a href="https://www.notion.so/API-3680b3a4d3b641108f2686515dfc2222" target="_blank">➡ API 명세서 바로가기</a>
