@@ -76,15 +76,6 @@
 
 <br><br>
 
-### 프로젝트 설계
-
----
-<details><summary>[ERD]</summary><img src="./image/final_erd.png"></details>
-<br><br>
-
-<details><summary>[릴레이션 스키마]</summary><img src="./image/final_erd.png"></details>
-<br><br>
-
 ### API 명세서
 
 ---
