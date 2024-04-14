@@ -88,9 +88,7 @@
 ### API
 
 ---
-
-[[API 명세서](https://www.notion.so/API-3680b3a4d3b641108f2686515dfc2222)]
-<br><br>
+<a href="https://www.notion.so/API-3680b3a4d3b641108f2686515dfc2222" target="_blank">➡ API 명세서 바로가기</a>
 
 <br><br>
 
