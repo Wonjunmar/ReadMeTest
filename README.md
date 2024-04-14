@@ -2,19 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=FFDC00&text=GIGA%20COFFEE&textBg=false&animation=fadeIn&fontColor=452613&fontSize=80&reversal=false&desc=기억%20속,%20가장%20맛있었던%20한%20모금&descAlignY=80"/>
 </p>
 
-### 프로젝트 기본 소개
-
----
-내용
-<br><br>
-
-### 프로젝트 배경
-
----
-내용
-<br><br>
-
-### 기술 스택
+### 🛠️ 기술 스택
 
 ---
 <div style="margin: 0 auto; text-align: center;" align= "center">
